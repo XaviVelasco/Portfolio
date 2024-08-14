@@ -5,7 +5,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects that I u
 ## 📚 Table of Contents
 - [Microsoft Excel](#microsoft-excel)
 
-# Microsoft Excel
+***
+
+## Microsoft Excel
 
 | Project Link | Project Description | 
 |---|---|
