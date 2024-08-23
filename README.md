@@ -19,6 +19,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects that I u
 
 | Project Link | Project Description | 
 |---|---|
-| :mag_right: [Scrum Master's Monitoring](https://github.com/XaviVelasco/Scrum-Master-SQL-Project) | **Sprint forecasting based on historical data.** I created a series of SQL-based analytics queries to provide the Scrum Master with valuable insights into the team's historical performance. By visualizing data such as team velocity, unplanned tasks, or team compliance, the Scrum Master can make more informed decisions and help optimize team performance. |
+| :mag_right: [Scrum Master's Monitoring](https://github.com/XaviVelasco/Scrum-Master-SQL-Project) | **Sprint forecasting based on historical data.** I created a series of SQL-based analytics queries to provide the Scrum Master with valuable insights into the team's historical performance. By visualizing data such as team velocity, unplanned tasks, or team compliance, the Scrum Master can make more informed decisions that could help with next's sprint planning in order to optimize team's performance. |
 
 ***
