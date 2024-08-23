@@ -19,6 +19,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects that I u
 
 | Project Link | Project Description | 
 |---|---|
-| :mag_right: [Scrum Master's Monitoring](https://github.com/XaviVelasco/Scrum-Master-SQL-Project) | **Data-Driven Sprint Forecasting.** I created a series of SQL queries to extract valuable insights from historical sprint data. These queries focused on key metrics like team velocity, unplanned tasks, and compliance, providing the Scrum Master with insights into team performance, enabling more accurate sprint planning and optimization.|
+| :mag_right: [Scrum Master's forecasting](https://github.com/XaviVelasco/Scrum-Master-SQL-Project) | **Data-Driven Sprint Forecasting.** I created a series of SQL queries to extract valuable insights from historical sprint data. These queries focused on key metrics like team velocity, unplanned tasks, and compliance, providing the Scrum Master with insights into team performance, enabling more accurate sprint planning and optimization.|
 
 ***
