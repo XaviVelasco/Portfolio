@@ -8,8 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects that I u
   
 ***
 
-## Microsoft Excel ![image](https://github.com/user-attachments/assets/58f37718-d6e8-4496-a920-77e510d1e4b9|size=50) 
-
+## Microsoft Excel
 
 | Project Link | Project Description | 
 |---|---|
