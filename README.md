@@ -2,11 +2,18 @@
 
 Welcome to my data portfolio! Here, I document a summary of my projects that I use to learn in the data field.
 
+
 ## 📚 Table of Contents
 - [Microsoft Excel](#microsoft-excel)
 - [SQL](#sql)
   
 ***
+
+## Python
+
+| Project Link | Project Description | 
+|---|---|
+| 📊 [Scrum Master's Dashboard](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard) | **Investigating Netflix Movies.** Datacamp practice project with Pandas |
 
 ## Microsoft Excel
 
