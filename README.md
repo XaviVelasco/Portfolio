@@ -13,7 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects that I u
 
 | Project Link | Project Description | 
 |---|---|
-| 📊 [Scrum Master's Dashboard](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard) | **Investigating Netflix Movies.** Datacamp practice project with Pandas |
+| 📽️ [Investigating Netflix Movies](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard) | **Investigating Netflix Movies.** Datacamp practice project with Pandas |
 
 ## Microsoft Excel
 
