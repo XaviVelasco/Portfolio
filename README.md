@@ -14,6 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects that I u
 | Project Link | Project Description | 
 |---|---|
 | 📽️ [Investigating Netflix Movies](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard) | **Investigating Netflix Movies.** Datacamp practice project with Pandas |
+| 🎒 [Exploring NYC Public School Test Results Score](https://github.com/XaviVelasco/Exploring-NYC-Public-School-Test-Results-Score)| **Exploring NYC Public School Test Results Score.** Datacamp practice project with Pandas.|
 
 ## Microsoft Excel
 
